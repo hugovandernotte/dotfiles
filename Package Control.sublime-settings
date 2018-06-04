@@ -1,17 +1,27 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "DocBlockr",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "Ruby on Rails snippets",
-    "SCSS"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"ERB Autocomplete",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"Material Theme",
+		"Materialize",
+		"Package Control",
+		"PackageResourceViewer",
+		"Ruby on Rails snippets",
+		"SCSS"
+	]
 }
