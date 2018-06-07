@@ -1,5 +1,8 @@
 ZSH=$HOME/.oh-my-zsh
 
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+
 # You can change the theme with another one:
 #   https://github.com/robbyrussell/oh-my-zsh/wiki/themes
 ZSH_THEME="robbyrussell"
@@ -21,7 +24,7 @@ export PATH="./bin:./node_modules/.bin:/Users/hugovandernotte/Library/Python/2.7
 [[ -f "$HOME/.aliases" ]] && source "$HOME/.aliases"
 
 # Encoding stuff for the terminal
-export LC_ALL=en_US.UTF-8
-export LANG=en_US.UTF-8
+export LC_ALL=“en_US.UTF-8”
+export LANG=“en_US.UTF-8”
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1"
 export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl'"
