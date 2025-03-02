@@ -10,6 +10,5 @@
 - brew install wezterm
 - brew install zellij
 - brew install zoxide
-- https://github.com/EliverLara/firefox-nordic-theme
 
 font: https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/IntelOneMono.zip
