@@ -10,6 +10,6 @@
 - brew install wezterm
 - brew install zellij
 - brew install zoxide
-- curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+- https://github.com/EliverLara/firefox-nordic-theme
 
 font: https://github.com/ryanoasis/nerd-fonts/releases/download/v3.3.0/IntelOneMono.zip
